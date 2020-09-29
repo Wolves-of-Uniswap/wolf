@@ -23,7 +23,10 @@ body {
   vertical-align: middle;
 }
 
-
+.scroller {
+  position: sticky;
+  top: 0;
+}
 
 
 #hoved-nav {
