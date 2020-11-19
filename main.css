@@ -40,7 +40,7 @@ body {
   height: 70px;
 }
 
-#igivein {
+#logo-fix {
   display: inline-block;
   height: 100%;
 }
@@ -53,6 +53,9 @@ body {
   vertical-align: sub;
   display: inline-block;
 }
+
+
+
 h1#next-release {
 
 }
